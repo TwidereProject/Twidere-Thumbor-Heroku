@@ -23,8 +23,6 @@ You don't need any other tool except a browser to deploy this.
 
 * Me: mariotaku.lee[AT]gmail.com
 
-* Our designer: pay[AT]uucky.me
-
 PayPal & Alipay accepted.
 
 Bitcoin: 1FHAVAzge7cj1LfCTMfnLL49DgA3mVUCuW
